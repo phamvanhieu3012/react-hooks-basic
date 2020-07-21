@@ -6,7 +6,7 @@ Pagination.propTypes = {
     onPageChange: PropTypes.func,
 };
 
-Pagination.defaulProps = {
+Pagination.defaultProps = {
     onPageChange: null,
 }
 
